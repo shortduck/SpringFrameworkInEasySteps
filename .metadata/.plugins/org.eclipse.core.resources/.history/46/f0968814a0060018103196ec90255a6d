@@ -1,0 +1,13 @@
+package me.ankit.Spring.springcore.di.annotation;
+
+public class Address {
+
+		private String HouseNumber;
+		private String StreetName;
+		private String City;
+		private String State;
+		
+		
+		
+	
+}

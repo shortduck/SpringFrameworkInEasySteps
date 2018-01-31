@@ -355,3 +355,24 @@
 2018-01-30 23:11:16,251 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2018-01-30 23:11:16,253 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2018-01-30 23:11:16,254 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kabir/Sandbox/Java/udemy/Spring1/springcore/src/test/resources
+2018-01-31 14:27:13,475 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-31 14:27:13,508 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-01-31 14:27:13,519 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-31 14:27:13,520 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kabir/Sandbox/Java/udemy/Spring1/springcore/src/test/resources
+2018-01-31 14:30:31,986 [Worker-20] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /Users/Kabir/Sandbox/Java/udemy/Spring1/advancedSpring/pom.xml
+2018-01-31 14:30:32,933 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: me.ankit.Spring:advancedSpring:0.0.1-SNAPSHOT @ /Users/Kabir/Sandbox/Java/udemy/Spring1/advancedSpring/pom.xml.
+2018-01-31 14:30:33,365 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /advancedSpring/src/main/java
+2018-01-31 14:30:33,369 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /advancedSpring/src/test/java
+2018-01-31 14:30:33,445 [Worker-20] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2018-01-31 14:30:34,121 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-31 14:30:34,121 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kabir/Sandbox/Java/udemy/Spring1/advancedSpring/src/main/resources
+2018-01-31 14:30:34,123 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-31 14:30:34,123 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kabir/Sandbox/Java/udemy/Spring1/advancedSpring/src/test/resources
+2018-01-31 14:31:36,633 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-31 14:31:36,633 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kabir/Sandbox/Java/udemy/Spring1/advancedSpring/src/main/resources
+2018-01-31 14:31:36,635 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-31 14:31:36,636 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kabir/Sandbox/Java/udemy/Spring1/advancedSpring/src/test/resources
+2018-01-31 14:31:45,457 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-31 14:31:45,457 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kabir/Sandbox/Java/udemy/Spring1/advancedSpring/src/main/resources
+2018-01-31 14:31:45,459 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-31 14:31:45,459 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kabir/Sandbox/Java/udemy/Spring1/advancedSpring/src/test/resources

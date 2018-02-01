@@ -1,9 +1,0 @@
-package me.ankit.Spring.springcore.refTypes;
-
-public class Scores {
-	
-	private double math;
-	private double physics;
-	private double chemistry;
-
-}

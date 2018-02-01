@@ -11,10 +11,8 @@ local.properties
 .loadpath
 .recommenders
 *.classes
-x/
-a1/
-a1
-/a1
+/springcore/target/classes/
+
 
 # External tool builders
 .externalToolBuilders/

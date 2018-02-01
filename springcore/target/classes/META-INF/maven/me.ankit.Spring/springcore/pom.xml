@@ -2,7 +2,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-<!--  Test Maven -->
+	<!-- Test Maven -->
 
 	<groupId>me.ankit.Spring</groupId>
 	<artifactId>springcore</artifactId>
@@ -28,8 +28,16 @@
 			<artifactId>spring-context</artifactId>
 			<version>${springframework.version}</version>
 		</dependency>
+
 		<dependency>
-			<groupId>junit    </groupId>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-test</artifactId>
+			<version>${springframework.version}</version>
+		</dependency>
+
+
+		<dependency>
+			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
 			<version>3.8.1</version>
 			<scope>test</scope>

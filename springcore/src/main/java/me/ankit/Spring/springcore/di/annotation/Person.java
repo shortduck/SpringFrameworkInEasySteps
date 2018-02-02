@@ -1,4 +1,4 @@
-package me.ankit.Spring.springcore.di.annotation;
+package me.ankit.Spring.springcore.DI.annotation;
 
 public class Person {
 

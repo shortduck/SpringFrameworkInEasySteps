@@ -1,4 +1,4 @@
-package me.ankit.Spring.springcore.di.autowiring;
+package me.ankit.Spring.springcore.DI.autowiring;
 
 import static org.junit.Assert.assertNotNull;
 

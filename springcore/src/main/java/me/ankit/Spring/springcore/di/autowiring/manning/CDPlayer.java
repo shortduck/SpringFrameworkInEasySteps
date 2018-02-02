@@ -1,4 +1,4 @@
-package me.ankit.Spring.springcore.di.autowiring.manning;
+package me.ankit.Spring.springcore.DI.autowiring.manning;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 

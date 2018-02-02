@@ -1,4 +1,4 @@
-package me.ankit.Spring.springcore.di.autowiring;
+package me.ankit.Spring.springcore.DI.autowiring;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;

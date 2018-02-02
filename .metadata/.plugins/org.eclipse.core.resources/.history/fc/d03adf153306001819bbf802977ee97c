@@ -1,0 +1,9 @@
+package me.ankit.Spring.springcore.lc.interfaces;
+
+public class Test {
+
+	public static void main(String args[]) {
+
+	}
+
+}

@@ -1,0 +1,7 @@
+package me.ankit.Spring.springcore.refTypes;
+
+public class Student {
+	
+	private Scores scores;
+
+}

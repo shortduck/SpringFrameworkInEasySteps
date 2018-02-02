@@ -1,0 +1,17 @@
+package me.ankit.Spring.springcore.di.autowiring;
+
+
+@Component
+public class CDPlayer implements MediaPlayer{
+	
+	
+
+	@Override
+	public void play() {
+		cd.
+		
+	}
+	
+	
+
+}

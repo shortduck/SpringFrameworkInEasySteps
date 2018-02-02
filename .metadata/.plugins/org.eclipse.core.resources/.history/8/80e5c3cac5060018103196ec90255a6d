@@ -1,0 +1,23 @@
+package me.ankit.Spring.springcore.di.autowiring;
+
+import org.junit.runner.RunWith;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+
+
+@RunWith(SpringJUnit4ClassRunner.class)
+public class CDPlayerTest {
+	
+	@Autowired
+	private CompactDisc cd;
+
+	public void testCD() {
+		
+		AnnotationConfigApplicationContext context = new AnnotationConfigApplicationContext(CDPlayerConfig.class);
+		context.getBean(requiredType)
+		
+		
+	}
+	
+}

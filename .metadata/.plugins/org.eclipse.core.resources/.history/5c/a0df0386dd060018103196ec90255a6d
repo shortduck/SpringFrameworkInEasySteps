@@ -1,0 +1,18 @@
+package me.ankit.Spring.springcore.di.autowiring;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class CDPlayer implements MediaPlayer{
+	
+	CompactDisc cd;
+
+	@Override
+	public void play() {
+		cd.
+		
+	}
+	
+	
+
+}

@@ -1,0 +1,11 @@
+package me.ankit.Spring.springcore.di.autowiring;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class Car {
+	
+	String Make;
+	
+
+}

@@ -56,12 +56,14 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="me.ankit.Spring.advancedSpring"/>
 			<item value="me.ankit.Spring.springcore"/>
 		</list>
 		<list key="groupId">
 			<item value="me.ankit.Spring"/>
 		</list>
 		<list key="artifactId">
+			<item value="advancedSpring"/>
 			<item value="springcore"/>
 		</list>
 		<list key="projectNameTemplate">

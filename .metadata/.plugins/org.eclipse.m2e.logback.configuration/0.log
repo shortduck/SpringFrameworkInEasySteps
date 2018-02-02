@@ -1956,3 +1956,44 @@
 2018-02-02 13:04:13,342 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2018-02-02 13:04:13,343 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\___\java\SpringFrameworkInEasySteps\springAOP\src\main\resources
 2018-02-02 13:04:13,344 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-02 13:04:13,345 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\___\java\SpringFrameworkInEasySteps\springAOP\src\test\resources
+2018-02-02 16:49:25,705 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-02-02 16:50:58,633 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\___\java\SpringFrameworkInEasySteps\SpringJavaConfig\pom.xml
+2018-02-02 16:51:01,685 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: me.ankit.spring:SpringJavaConfig:0.0.1-SNAPSHOT @ C:\___\java\SpringFrameworkInEasySteps\SpringJavaConfig\pom.xml.
+2018-02-02 16:51:03,393 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringJavaConfig/src/main/java
+2018-02-02 16:51:03,400 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringJavaConfig/src/test/java
+2018-02-02 16:51:03,827 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 5 sec
+2018-02-02 16:51:04,907 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-02 16:51:04,907 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\___\java\SpringFrameworkInEasySteps\SpringJavaConfig\src\main\resources
+2018-02-02 16:51:04,911 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-02 16:51:04,911 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\___\java\SpringFrameworkInEasySteps\SpringJavaConfig\src\test\resources
+2018-02-02 16:51:13,187 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-02 16:51:13,188 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\___\java\SpringFrameworkInEasySteps\SpringJavaConfig\src\main\resources
+2018-02-02 16:51:13,189 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-02 16:51:13,190 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\___\java\SpringFrameworkInEasySteps\SpringJavaConfig\src\test\resources
+2018-02-02 16:51:18,008 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-02 16:51:18,010 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\___\java\SpringFrameworkInEasySteps\SpringJavaConfig\src\main\resources
+2018-02-02 16:51:18,014 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-02 16:51:18,014 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\___\java\SpringFrameworkInEasySteps\SpringJavaConfig\src\test\resources
+2018-02-02 16:52:01,210 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: me.ankit.spring:SpringJavaConfig:0.0.1-SNAPSHOT @ C:\___\java\SpringFrameworkInEasySteps\SpringJavaConfig\pom.xml.
+2018-02-02 16:52:01,588 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-02 16:52:01,595 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\___\java\SpringFrameworkInEasySteps\SpringJavaConfig\src\main\resources
+2018-02-02 16:52:01,598 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-02 16:52:01,599 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\___\java\SpringFrameworkInEasySteps\SpringJavaConfig\src\test\resources
+2018-02-02 16:52:03,160 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-02 16:52:03,160 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\___\java\SpringFrameworkInEasySteps\SpringJavaConfig\src\main\resources
+2018-02-02 16:52:03,160 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-02 16:52:03,177 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\___\java\SpringFrameworkInEasySteps\SpringJavaConfig\src\test\resources
+2018-02-02 16:52:17,201 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-02-02 16:52:17,953 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: me.ankit.spring:SpringJavaConfig:0.0.1-SNAPSHOT @ C:\___\java\SpringFrameworkInEasySteps\SpringJavaConfig\pom.xml.
+2018-02-02 16:52:18,243 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringJavaConfig/src/main/java
+2018-02-02 16:52:18,247 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringJavaConfig/src/test/java
+2018-02-02 16:52:18,748 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2018-02-02 16:52:18,968 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-02 16:52:18,970 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\___\java\SpringFrameworkInEasySteps\SpringJavaConfig\src\main\resources
+2018-02-02 16:52:18,974 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-02 16:52:18,975 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\___\java\SpringFrameworkInEasySteps\SpringJavaConfig\src\test\resources
+2018-02-02 16:52:32,387 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: me.ankit.spring:SpringJavaConfig:0.0.1-SNAPSHOT @ C:\___\java\SpringFrameworkInEasySteps\SpringJavaConfig\pom.xml.
+2018-02-02 16:52:32,655 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-02 16:52:32,661 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\___\java\SpringFrameworkInEasySteps\SpringJavaConfig\src\main\resources
+2018-02-02 16:52:32,664 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!

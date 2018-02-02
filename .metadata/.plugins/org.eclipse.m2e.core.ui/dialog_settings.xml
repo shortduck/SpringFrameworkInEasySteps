@@ -37,6 +37,20 @@
 		<item value="166" key="y"/>
 		<item value="531" key="height"/>
 	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\___\java\SpringFrameworkInEasySteps\advancedSpring"/>
+			<item value="C:\___\java\SpringFrameworkInEasySteps\springboot"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
 	<section name="MavenProjectWizardArchetypePage">
 		<item value="All Catalogs" key="catalog"/>
 		<list key="projectNameTemplate">
@@ -50,6 +64,7 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\___\java\SpringFrameworkInEasySteps\springcore"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -62,13 +77,13 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="me.ankit.Spring.springcore"/>
+			<item value="me.ankit.spring.springAOP"/>
 		</list>
 		<list key="groupId">
-			<item value="me.ankit.Spring"/>
+			<item value="me.ankit.spring"/>
 		</list>
 		<list key="artifactId">
-			<item value="springcore"/>
+			<item value="springAOP"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

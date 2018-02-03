@@ -1,0 +1,17 @@
+package me.ankit.Spring.springcore.DI.annotation;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+public class PersonConfig {
+	
+	
+	@Auto
+	wired
+	public Person initPerson(Address address){
+		
+		return new Person(address);
+	}
+
+}

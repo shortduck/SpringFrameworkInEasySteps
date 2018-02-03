@@ -1,0 +1,26 @@
+package me.ankit.Spring.springcore.lc.interfaces;
+
+import org.springframework.beans.factory.InitializingBean;
+
+public class Patient implements InitializingBean {
+	
+	private int id;
+
+	public int getId() {
+		return id;
+	}
+
+	public void setId(int id) {
+		this.id = id;
+	}
+
+	@Override
+	public void afterPropertiesSet() throws Exception {
+		System.out.println("Inside after properties set.");
+		
+	}
+	
+	
+	
+
+}

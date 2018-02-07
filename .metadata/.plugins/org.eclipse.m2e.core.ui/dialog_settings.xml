@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
 		</list>
@@ -19,8 +21,6 @@
 			<item value="0.0.1-SNAPSHOT"/>
 		</list>
 	</section>
-	<section name="org.eclipse.m2e.core.pom.dependencies">
-	</section>
 	<section name="org.eclipse.m2e.core.pom.overview">
 		<list key="ciManagementUrl">
 		</list>
@@ -31,10 +31,15 @@
 		<list key="issueManagementUrl">
 		</list>
 	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.dialogs.MavenRepositorySearchDialog">
+		<item value="480" key="width"/>
+		<item value="413" key="x"/>
+		<item value="85" key="y"/>
+		<item value="489" key="height"/>
+	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
-			<item value="/Users/Kabir/Sandbox/Java/udemy/Spring1/springboot"/>
-			<item value="/Users/Kabir/Downloads/springboot"/>
+			<item value="/Users/Kabir/Sandbox/Java/udemy/Spring1/springAOP"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -70,15 +75,13 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="me.ankit.Spring.advancedSpring"/>
-			<item value="me.ankit.Spring.springcore"/>
+			<item value="me.ankit.spring.SpringMVC"/>
 		</list>
 		<list key="groupId">
-			<item value="me.ankit.Spring"/>
+			<item value="me.ankit.spring"/>
 		</list>
 		<list key="artifactId">
-			<item value="advancedSpring"/>
-			<item value="springcore"/>
+			<item value="SpringMVC"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -91,5 +94,11 @@
 		<list key="version">
 			<item value="0.0.1-SNAPSHOT"/>
 		</list>
+	</section>
+	<section name="org.eclipse.m2e.editor.dialogs.ManageDependenciesDialog">
+		<item value="655" key="width"/>
+		<item value="326" key="x"/>
+		<item value="111" key="y"/>
+		<item value="450" key="height"/>
 	</section>
 </section>

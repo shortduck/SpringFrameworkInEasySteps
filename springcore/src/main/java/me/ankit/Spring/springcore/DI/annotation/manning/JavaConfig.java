@@ -17,5 +17,13 @@ public class JavaConfig {
 		System.out.println("address init");
 		return new Address();
 	}
+	
+	@Bean
+	public Test getTest(){
+		System.out.println("test init");
+		return new Test();
+	}
+	
+	
 
 }

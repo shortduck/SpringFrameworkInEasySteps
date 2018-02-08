@@ -1,5 +1,4 @@
 .DS_Store
-
 bin/
 tmp/
 *.tmp
@@ -27,5 +26,4 @@ local.properties
 .cache-main
 .scala_dependencies
 .worksheet
-/.metadata/
-.metadata/
+.metadata

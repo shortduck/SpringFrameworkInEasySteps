@@ -14,7 +14,11 @@ public class Test {
 	public static void main(String[] args) {
 		
 		AnnotationConfigApplicationContext context = new AnnotationConfigApplicationContext(JavaConfig.class);
-		//context.getBean(Employee.class);
+		
+		Employee emp = (Employee)context.getBean(Employee.class);
+		emp.EmployeeData();
+		
+		System.out.println(emp);
 		
 		//Test t = new Test();
 		//t.foo();

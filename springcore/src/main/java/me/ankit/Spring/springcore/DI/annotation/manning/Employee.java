@@ -1,8 +1,12 @@
 package me.ankit.Spring.springcore.DI.annotation.manning;
 
+import org.springframework.beans.factory.annotation.Autowired;
+
 public class Employee {
 
 	String Name = "Ankit";
+	
+	@Autowired
 	Address address;
 
 	public String getName() {

@@ -1,8 +1,4 @@
-.DS_Store
-<<<<<<< HEAD
-=======
 
->>>>>>> e9d00b07a98cccd553eba77fabdb62ee8fbd91ba
 bin/
 tmp/
 *.tmp
@@ -30,4 +26,4 @@ local.properties
 .cache-main
 .scala_dependencies
 .worksheet
-/.metadata/
+.metadata
